@@ -1,1 +1,49 @@
-/* stylesheet for train app */
+/* stylesheet for train app*/
+.current-train-schedule{
+    border: 10px;
+    margin: 10px;
+    background-color: rgb(255, 254, 192);
+    max-width: 85%;
+    border-style
+    border-color: blue;
+
+}
+
+#trainScheduleTitle{
+    background-color: blue;
+    color: white;
+}
+
+
+
+.train-info-input {
+    border: 10px;
+    margin: 10px;
+    background-color: rgb(131, 131, 245);
+    max-width: 85%;
+    vertical-align: middle;
+}
+
+#trainNameInput {
+    /* width: 90%; */
+}
+
+#trainNameInput > div {
+    margin: 0 auto;
+    width: 250px;
+    background-color: rgb(131, 131, 245);
+}
+
+/* #trainDestinationInput{} */
+/* #trainTimeInput{} */
+/* #trainFrequencyInput{} */
+
+
+td {
+    margin: 10px;
+    background-color: rgb(180, 44, 44);
+}
+
+tr{
+    border: 5px;
+}
